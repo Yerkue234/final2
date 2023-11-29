@@ -12,6 +12,12 @@
     box-sizing: border-box !important;
 }
 
+body{
+    font-family: 'Poppins' , sans-serif;
+    height: 100vh;
+    width: 1780px;
+}
+
 /* HTML BODY */
 
 html{
@@ -24,7 +30,6 @@ header{
     width: 1400px;
     background-image: url(./Picture/background.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
 }
 
 
@@ -98,7 +103,7 @@ section{
 
 .box{
     position: relative;
-    left: 6rem;
+    left: 5rem;
     border-radius: 20px;
     width: 400px;
     height: 500px;
