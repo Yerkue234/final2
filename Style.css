@@ -34,13 +34,12 @@ header{
 
 
 .menu-liste {
-    width: 1440px;
+    width: 1780px;
     display: flex;
     justify-content: center;
     gap: 6rem;
     align-items: center;
     background-color: #6D449B;
-    width: 1790px;
     height: 10vh;
 }
 
